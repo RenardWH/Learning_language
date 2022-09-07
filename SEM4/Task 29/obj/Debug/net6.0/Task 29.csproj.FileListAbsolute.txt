@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\bin\Debug\net6.0\Task 29.exe
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\bin\Debug\net6.0\Task 29.deps.json
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\bin\Debug\net6.0\Task 29.runtimeconfig.json
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\bin\Debug\net6.0\Task 29.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\bin\Debug\net6.0\Task 29.pdb
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\Task 29.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\Task 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\Task 29.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\Task 29.AssemblyInfo.cs
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\Task 29.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\Task 29.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\refint\Task 29.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\Task 29.pdb
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\Task 29.genruntimeconfig.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM4\Task 29\obj\Debug\net6.0\ref\Task 29.dll
