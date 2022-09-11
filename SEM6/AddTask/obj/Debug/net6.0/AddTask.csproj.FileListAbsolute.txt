@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\AddTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\AddTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\AddTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\AddTask.AssemblyInfo.cs
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\AddTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\bin\Debug\net6.0\AddTask.exe
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\bin\Debug\net6.0\AddTask.deps.json
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\bin\Debug\net6.0\AddTask.runtimeconfig.json
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\bin\Debug\net6.0\AddTask.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\bin\Debug\net6.0\AddTask.pdb
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\AddTask.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\refint\AddTask.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\AddTask.pdb
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\AddTask.genruntimeconfig.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM6\AddTask\obj\Debug\net6.0\ref\AddTask.dll
