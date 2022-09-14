@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\bin\Debug\net6.0\Taks50.exe
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\bin\Debug\net6.0\Taks50.deps.json
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\bin\Debug\net6.0\Taks50.runtimeconfig.json
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\bin\Debug\net6.0\Taks50.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\bin\Debug\net6.0\Taks50.pdb
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\Taks50.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\Taks50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\Taks50.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\Taks50.AssemblyInfo.cs
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\Taks50.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\Taks50.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\refint\Taks50.dll
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\Taks50.pdb
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\Taks50.genruntimeconfig.cache
+C:\Users\User\Desktop\git\Learning_language_HW\Learning_language\SEM7\Taks50\obj\Debug\net6.0\ref\Taks50.dll
